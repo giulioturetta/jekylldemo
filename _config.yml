@@ -28,7 +28,7 @@ twitter_username: giulio_turetta
 github_username:  giulioturetta
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
